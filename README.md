@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahdy Kéfi</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on [Health Gate](https://github.com/Ahdy-K/Health_Gate)
+- 🔭 I’m currently working on [Stagi]([Stagi](https://github.com/Ahdy-K/Stage))
 
-- 🤝 I’m looking **An Intern or a new job opportunity**
+- 🤝 I’m looking **An End of Study Internship or a new job opportunity**
 
 - 👨‍💻 All of my projects are available at [my github account: https://github.com/Ahdy-K](my github account: https://github.com/Ahdy-K)
 
