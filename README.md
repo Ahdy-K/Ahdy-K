@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahdy Kéfi</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working on improving my sharping my skills.
+- 🔭 I’m currently working on  sharping my skills.
 
 - 🤝 I’m looking **A new job opportunity**
 
